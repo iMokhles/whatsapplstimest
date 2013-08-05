@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Click Apply Changes if it didn't work after switch it ON</string>
+			<key>label</key>
+			<string>WhatsAppLSTime</string>
+		</dict>
+		<dict>
+			<key>alternateColors</key>
+			<true/>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.imokhles.whatsapplstimest</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Enable iT</string>
+		</dict>
+		<dict>
+			<key>alternateColors</key>
+			<false/>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.imokhles.whatsapplstimest</string>
+			<key>key</key>
+			<string>enabledit</string>
+			<key>label</key>
+			<string>Hide/UnHide YourSelf</string>
+		</dict>
+		<dict>
+			<key>alternateColors</key>
+			<false/>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.imokhles.whatsapplstimest</string>
+			<key>key</key>
+			<string>enabledDate</string>
+			<key>label</key>
+			<string>Show Date</string>
+		</dict>
+		<dict>
+			<key>alternateColors</key>
+			<false/>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.imokhles.whatsapplstimest</string>
+			<key>key</key>
+			<string>enabledTime</string>
+			<key>label</key>
+			<string>Show Time</string>
+		</dict>
+		<dict>
+			<key>alternateColors</key>
+			<true/>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.imokhles.whatsapplstimest</string>
+			<key>key</key>
+			<string>enabledTimestamp</string>
+			<key>label</key>
+			<string>Show Timestamp</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Respring:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.imokhles.whatsapplstimest</string>
+			<key>icon</key>
+			<string>respring.png</string>
+			<key>label</key>
+			<string>Apply Changes</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>FollowMe:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.imokhles.whatsapplstimest</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>Follow Me!</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>2013 iMokhles.com</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Mokhlas Hussein @iMokhles </string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>WhatsAppLSTime</string>
+</dict>
+</plist>

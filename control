@@ -1,0 +1,9 @@
+Package: com.imokhles.whatsapplstimest
+Name: WhatsApp LSTimeST
+Depends: mobilesubstrate
+Version: 2.1
+Architecture: iphoneos-arm
+Description: On/Off Lastseen TimeStamp WhatsApp
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
