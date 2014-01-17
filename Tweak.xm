@@ -2,6 +2,7 @@
  	WhatsApp LSeen TimeStamp, by Mokhles Hussien (iMokhles)
 	Copyright 2013 Mokhles Hussien (iMokhles), 
  	This code is not under any license so use it and edit it as you want.
+ 	But don't forget to notice me if you want to publish it ;)
 */
 
 #import <UIKit/UIKit.h>
